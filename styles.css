@@ -1,0 +1,40 @@
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+    }
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+    font-size: 22px;
+}
+
+#colorgray{
+    background-color: rgb(215, 215, 215);
+}
+.align{
+    text-align: center;
+}
+#contain{
+    background-color: rgb(242, 242, 242);
+}
+body{
+    background-color: rgb(215, 215, 215);
+}
+.adjust{
+    margin: auto;
+    width: 70%;
+    padding: 20px; 
+    text-align: center;
+}
+#pad{
+    text-align: center;
+    padding-top: 30px;
+}
+#pad2{
+    text-align: center;
+    padding-bottom: 30px;
+}
